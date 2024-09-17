@@ -34,7 +34,7 @@ class Main
             System.out.println("even sum"+even);
             System.out.println("odd sum"+odd);
             System.out.println("diff"+diff);
-            System.out.println("diff"+diff);
+           
         
     }
 }
